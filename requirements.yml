@@ -1,0 +1,3 @@
+---
+- src: https://github.com/activatedio/ansible-ops-tools.git 
+  name: ops-tools
