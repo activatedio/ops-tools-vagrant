@@ -1,9 +1,4 @@
----
-# Ansible playbook for a Node.js API app server.
-#
-# @author Jeff Geerling (2015).
-
-- hosts: nodejs
+- hosts: opstools
   gather_facts: yes
 
   vars_files:
