@@ -1,5 +1,9 @@
 # Ops Toolkit
 
+Based on template from:
+
+https://github.com/geerlingguy/ansible-vagrant-examples
+
 ## Description
 
 Virtual machine with a DevOps tools chain.
